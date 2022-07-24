@@ -1,0 +1,87 @@
+$text-color:#FCFCFC;
+nav{
+    top: 0px;
+left: 0px;
+
+height: 94px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 6px 15px #00000029;
+opacity: 1;
+}
+
+.navbar-brand{
+    top: 26px;
+    left: 25px;
+    width: 162px;
+    height: 35px;
+    /* UI Properties */
+    color: #0188F3;
+    font-size: 25px;
+    opacity: 1;  
+}
+.save-filter{
+    top: 145px;
+left: 1264px;
+width: 158px;
+height: 47px;
+/* UI Properties */
+background: #0188F3 0% 0% no-repeat padding-box;
+opacity: 1;
+color:$text-color;
+}
+
+.writing{
+    color: #0188F3;
+     
+}
+.bld{
+    width: 32px;
+height: 32px;
+/* UI Properties */
+background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 3px 6px #00000029;
+opacity: 1;
+font-weight:bold;
+text-align: center;
+}
+.ita{
+    width: 32px;
+    height: 32px;
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+   margin-left: 20px;
+    text-align: center;
+}
+.hyper{
+    height: 22px;
+/* UI Properties */
+text-align: left;
+font: normal normal normal 18px/22px Montserrat;
+letter-spacing: 0px;
+color: #414756;
+opacity: 1;
+margin-left: 20px;
+text-align: center;
+}
+.horizontal{
+    color:red;
+    height: 2px;
+    border: 1px solid #707070;
+opacity: 1;
+}
+.gray-span{
+    color: #41475699;
+}
+.nav-home-padding{
+    margin-top:50px;
+    margin-bottom: 50px;
+}
+.text-edit{
+/* UI Properties */
+background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 3px 10px #0000001A;
+opacity: 1;
+height: 580px;
+}
